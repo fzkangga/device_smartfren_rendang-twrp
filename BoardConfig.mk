@@ -64,3 +64,4 @@ TARGET_KEYMASTER_WAIT_FOR_QSEE := true
 
 # TWRP specific build flags
 TW_THEME := portrait_hdpi
+TW_INPUT_BLACKLIST := "hbtp_vm"
